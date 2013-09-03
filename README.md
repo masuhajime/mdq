@@ -9,6 +9,9 @@ git clone git@github.com:masuhajime/mdq.git
 curl -sS https://getcomposer.org/installer | php
 # get vendor by composer
 php composer.phar install
+
+# copy config file
+cp conf/config.php.sample conf/config.php
 ```
 
 ## getting start
