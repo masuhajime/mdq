@@ -1,0 +1,6 @@
+cookie/*
+vendor/*
+data/*
+conf/config.php
+composer.lock
+composer.phar
